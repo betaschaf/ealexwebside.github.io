@@ -5,7 +5,7 @@ $grid-gutter-width: 40px !default;
 $border-radius-base:  4px !default;
 $padding-base-vertical: 14px !default;
 
-$brand-primary: #8dc63f !default;
+$brand-primary: #2772DB !default;
 $brand-secondary: #484c50 !default; 
 $brand-tertiary: #85919d !default; 
 
@@ -712,7 +712,7 @@ body {
 			height: 112px;
 			display: table;
 			margin: 0 auto 30px auto;
-			background: lighten($brand-primary, 38%);
+			background: lighten($brand-primary, 46%);
 			@include border-radius(50%);
 			i {
 				position: relative;
@@ -1334,6 +1334,7 @@ body {
   
 }
 
+
 // Magnific Popup
 .mfp-with-zoom .mfp-container,
 .mfp-with-zoom.mfp-bg {
@@ -1357,6 +1358,7 @@ body {
 .mfp-with-zoom.mfp-removing.mfp-bg {
   opacity: 0;
 }
+
 
 
 // Helper Class
