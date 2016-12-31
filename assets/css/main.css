@@ -22,6 +22,9 @@
 		display: block;
 	}
 
+                <body style="background-image:url(bgimage.jpg)">
+
+
 	#banner {
 		background-attachment: scroll,							fixed;
 		background-color: #666;
