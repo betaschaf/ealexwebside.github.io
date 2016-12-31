@@ -22,7 +22,6 @@
 		display: block;
 	}
 
-                <body style="background-image:url(bgimage.jpg)">
 
 
 	#banner {
@@ -92,7 +91,7 @@
 	#lol {
 		background-attachment: scroll,							fixed;
 		background-color: #666;
-		background-image: url("../../images/h404.png");
+		background-image: url("../../images/404.png");
 		background-position: center center;
 		background-repeat: repeat;
 		background-size: cover;
