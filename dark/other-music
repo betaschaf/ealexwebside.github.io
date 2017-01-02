@@ -1,0 +1,140 @@
+<!DOCTYPE HTML>
+<!--
+	Landed by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<link rel="icon" href="http://ealexwebside.github.io/favicon.png">
+		<title>EinfachMC.de - Dark</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+	</head>
+	<body class="landing">
+		<div id="page-wrapper">
+
+			<!-- Header -->
+				<header id="header">
+					<h1 id="logo"><a href="index.html">EINFACHMC.DE</a></h1>
+					<nav id="nav">
+						<ul>
+							<li><a href="index.html">Home</a></li>
+
+							<li><a href="alex.html">Alex</a></li>
+														<li><a href="elements.html">Spielmodi</a></li>
+							<li><a href="" class="button special">JOIN NOW.</a></li>
+						</ul>
+					</nav>
+				</header>
+
+
+			<!-- Four -->
+				<section id="four" class="wrapper style1 special fade-up">
+					<div class="container">
+
+						<div class="box alt">
+							<div class="row uniform">
+								<section class="4u 6u(medium) 12u$(xsmall)">
+									<span class="icon alt major fa-signal"></span>
+									<h3>KRONEHIT</h3>
+								<audio controls class = "animate-box">
+  								<source src="http://onair-ha1.krone.at/kronehit.mp3" type="audio/mpeg">
+  								<source src="http://onair-ha1.krone.at/kronehit.mp3" type="audio/ogg">
+							</audio>
+								</section>
+								<section class="4u 6u$(medium) 12u$(xsmall)">
+									<span class="icon alt major fa-signal"></span>
+									<h3>LifeRadio</h3>
+								<audio controls class = "animate-box">
+  								<source src="http://94.136.28.10:8000/liferadio" type="audio/mpeg">
+  								<source src="http://94.136.28.10:8000/liferadio" type="audio/ogg">
+							</audio>
+								</section>
+								<section class="4u$ 6u(medium) 12u$(xsmall)">
+									<span class="icon alt major fa-signal"></span>
+									<h3>1LIVE</h3>
+								<audio controls class = "animate-box">
+  								<source src="http://1live.akacast.akamaistream.net/7/706/119434/v1/gnl.akacast.akamaistream.net/1live" type="audio/mpeg">
+  								<source src="http://1live.akacast.akamaistream.net/7/706/119434/v1/gnl.akacast.akamaistream.net/1live" type="audio/ogg">
+							</audio>
+								</section>
+								<section class="4u 6u$(medium) 12u$(xsmall)">
+									<span class="icon alt major fa-signal"></span>
+									<h3>1LIVE - Neu für den Sektor</h3>
+								<audio controls class = "animate-box">
+  								<source src="http://1live-sektor.akacast.akamaistream.net/7/551/119449/v1/gnl.akacast.akamaistream.net/1live-sektor" type="audio/mpeg">
+  								<source src="http://1live-sektor.akacast.akamaistream.net/7/551/119449/v1/gnl.akacast.akamaistream.net/1live-sektor" type="audio/ogg">
+							</audio>
+								</section>
+								<section class="4u 6u$(medium) 12u$(xsmall)">
+									<span class="icon alt major fa-signal"></span>
+									<h3>1LIVE DIGI</h3>
+								<audio controls class = "animate-box">
+  								<source src="http://1live-diggi.akacast.akamaistream.net/7/965/119435/v1/gnl.akacast.akamaistream.net/1live-diggi" type="audio/mpeg">
+  								<source src="http://1live-diggi.akacast.akamaistream.net/7/965/119435/v1/gnl.akacast.akamaistream.net/1live-diggi" type="audio/ogg">
+							</audio>
+								</section>
+								<section class="4u 6u(medium) 12u$(xsmall)">
+									<span class="icon alt major fa-signal"></span>
+									<h3>Antenne Bayern</h3>
+								<audio controls class = "animate-box">
+  								<source src="http://mp3channels.webradio.antenne.de/antenne" type="audio/mpeg">
+  								<source src="http://mp3channels.webradio.antenne.de/antenne" type="audio/ogg">
+							</audio>								</section>
+								<section class="4u$ 6u$(medium) 12u$(xsmall)">
+									<span class="icon alt major fa-signal"></span>
+									<h3>SWR 3</h3>
+								<audio controls class = "animate-box">
+  								<source src="http://swr-mp3-m-swr3.akacast.akamaistream.net/7/720/137136/v1/gnl.akacast.akamaistream.net/swr-mp3-m-swr3" type="audio/mpeg">
+  								<source src="http://swr-mp3-m-swr3.akacast.akamaistream.net/7/720/137136/v1/gnl.akacast.akamaistream.net/swr-mp3-m-swr3" type="audio/ogg">
+							</audio>
+								</section>
+								<section class="4u$ 6u$(medium) 12u$(xsmall)">
+									<span class="icon alt major fa-signal"></span>
+									<h3>SAW</h3>
+								<audio controls class = "animate-box">
+  								<source src="http://radiosaw.hoerradar.de/mp3-radiosaw-128" type="audio/mpeg">
+  								<source src="http://radiosaw.hoerradar.de/mp3-radiosaw-128" type="audio/ogg">
+							</audio>
+								</section>
+							</div>
+						</div>
+						<footer class="major">
+							<ul class="actions">
+							</ul>
+						</footer>
+					</div>
+				</section>
+
+
+
+			<!-- Footer -->
+				<footer id="footer">
+					<ul class="icons">
+						<li><a href="http://twitter.com/einfachalex_" class="icon alt fa-twitter"><span class="label">Twitter</span></a></li>
+						<li><a href="http://instagram.com/einfachalexyt" class="icon alt fa-instagram"><span class="label">Instagram</span></a></li>
+					</ul>
+					<ul class="copyright">
+						<li>&copy; EinfachAlex, beta, Mel. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+					</ul>
+				</footer>
+
+		</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/jquery.dropotron.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
