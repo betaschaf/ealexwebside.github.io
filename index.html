@@ -14,18 +14,8 @@
 		<link rel="stylesheet" href="https://ealexwebside.github.io/dark/assets/css/main.css" />
 		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
-		<script type="text/javascript">
-var message="";
-function clickIE() {if (document.all) {(message);return false;}}
-function clickNS(e) {if 
-(document.layers||(document.getElementById&&!document.all)) {
-if (e.which==2||e.which==3) {(message);return false;}}}
-if (document.layers) 
-{document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
-else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
-</script>
 	</head>
-	<body class="landing">
+	<body oncontextmenu="return false">
 		<!--script type="text/javascript">
 var adfly_id = 16308655;
 var adfly_advert = 'int';
