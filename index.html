@@ -14,8 +14,18 @@
 		<link rel="stylesheet" href="https://ealexwebside.github.io/dark/assets/css/main.css" />
 		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+		<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+     <script>
+       function onSubmit(token) {
+         document.getElementById("demo-form").submit();
+       }
+     </script>
 	</head>
-	<body oncontextmenu="return false" onselectstart="return false">
+	<body oncontextmenu="return false" onselectstart="return false" class="navPanel-invisible">
+		<form id='demo-form' action="?" method="POST">
+      <button class="g-recaptcha" data-sitekey="6LdXwR0UAAAAABMlSr0Hwxxg-kwPIoA6AU-w1kI8" data-callback='onSubmit'>Submit</button>
+      <br/>
+    </form>
 		<div id="page-wrapper">
 
 			<!-- Header -->
