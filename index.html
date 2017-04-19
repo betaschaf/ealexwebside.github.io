@@ -14,6 +14,35 @@
 		<link rel="stylesheet" href="https://ealexwebside.github.io/dark/assets/css/main.css" />
 		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+		<script LANGUAGE="JavaScript" TYPE="text/javascript">
+<!--
+if (document.layers){
+window.captureEvents(Event.MOUSEDOWN | Event.MOUSEUP)
+window.onmousedown=rightclick;
+window.onmouseup=rightclick;
+function rightclick(e) {
+if (e.which == 3) {
+// Put right mouse code here
+alert('COPYRIGHT!');
+return false;
+}
+else {
+return true;
+}
+}
+}
+if (document.all){
+function click() {
+if (event.button==2) {
+alert('COPYRIGHT!')
+}
+if (event.button==3) {
+alert('COPYRIGHT!')}
+}
+document.onmousedown=click
+}
+// -->
+</script>
 	</head>
 	<body class="landing">
 		<!--script type="text/javascript">
